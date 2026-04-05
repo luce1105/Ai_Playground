@@ -1,0 +1,10 @@
+{
+  "name": "laboratory",
+  "objects": [
+    {"id": "Platform", "pos": [0, 370]},
+    {"id": "Glass Panel", "pos": [0, 240]},
+    {"id": "Lamp", "pos": [-140, 250]},
+    {"id": "Door", "pos": [170, 280]},
+    {"id": "Human", "pos": [-40, 180]}
+  ]
+}

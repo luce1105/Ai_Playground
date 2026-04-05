@@ -1,0 +1,9 @@
+{
+  "name": "sandbox",
+  "objects": [
+    {"id": "Platform", "pos": [0, 380]},
+    {"id": "Wood Crate", "pos": [-120, 320]},
+    {"id": "Metal Block", "pos": [80, 300]},
+    {"id": "Human", "pos": [0, 220]}
+  ]
+}
