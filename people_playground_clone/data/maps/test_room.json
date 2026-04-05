@@ -1,0 +1,9 @@
+{
+  "name": "test_room",
+  "objects": [
+    {"id": "Platform", "pos": [0, 380]},
+    {"id": "Human", "pos": [-80, 180]},
+    {"id": "Pistol", "pos": [40, 240]},
+    {"id": "Wood Crate", "pos": [120, 320]}
+  ]
+}

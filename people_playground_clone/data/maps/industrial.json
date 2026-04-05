@@ -1,0 +1,10 @@
+{
+  "name": "industrial",
+  "objects": [
+    {"id": "Platform", "pos": [0, 380]},
+    {"id": "Explosive Barrel", "pos": [-110, 320]},
+    {"id": "Explosive Barrel", "pos": [-60, 320]},
+    {"id": "Metal Block", "pos": [70, 290]},
+    {"id": "Spike", "pos": [180, 350]}
+  ]
+}

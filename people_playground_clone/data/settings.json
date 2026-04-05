@@ -1,0 +1,10 @@
+{
+  "master_volume": 0.7,
+  "fullscreen": false,
+  "fps_limit": 120,
+  "show_blood": true,
+  "particle_quality": 1.0,
+  "resolution": [1600, 900],
+  "camera_sensitivity": 1.0,
+  "vsync": false
+}
